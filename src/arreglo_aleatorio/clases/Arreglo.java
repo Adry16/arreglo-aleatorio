@@ -3,10 +3,6 @@ package arreglo_aleatorio.clases;
 
 import java.text.DecimalFormat;
 
-/**
- *
- * @author Ivan
- */
 public class Arreglo {
 
     int[] array;

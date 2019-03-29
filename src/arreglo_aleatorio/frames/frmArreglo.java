@@ -4,10 +4,7 @@ package arreglo_aleatorio.frames;
 import arreglo_aleatorio.clases.Arreglo;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Diego1
- */
+
 public class frmArreglo extends javax.swing.JFrame {
 
     Arreglo a;
